@@ -1,2 +1,3 @@
 # Store
-My New Store
+My New Store 
+Store Name is Mano
