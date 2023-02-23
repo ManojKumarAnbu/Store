@@ -1,2 +1,6 @@
 # Store
-My New Store
+My New Store 
+Store Name is Mano
+I am visionet employee
+Ok
+Thank You
